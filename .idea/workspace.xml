@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1efbf4d-fe19-4c27-bc24-2d743fce8cfd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inicializador.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inicializador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejemplo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/4.2018.05.03.1.5.08.45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/4.2018.05.03.15.02.35.938.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/5.2018.05.03.1.2.19.60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/5.2018.05.03.200.4.702.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/5.2018.05.03.21.2.19.680.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/5.2018.05.03.21.24.19.680.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.0.08.15.2.28.232.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05..1534.23.48.664.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.12.42.5.789.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.12.48.01.003.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.12.49.26.740.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.12.49.26.7410.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.12.6.999.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.03.24.922.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.09.00.903.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.09.020.903.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.11.23.09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.11.23.90609.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.11.23.909.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.27.23.136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.27.23.5136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.29.11.674.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.29.11.6744.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.30.22.979.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.34.32.790.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.34.328.790.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.34.328.8790.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.13.50.19.432.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.135.220.41.87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.135.6220.41.87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.15.09.18.758.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.15.09.184.758.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.15.09.1845.758.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.15.13.0055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.15.23.48.664.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.1534.23.48.664.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.154.23.48.664.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.17.50.48.158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.18.19.3.936.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.18.19.3.96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.03.18.19.38.936.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.0317.50.48.158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.0317.50.8.158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.08.15.2.28.232.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.08.15.42.28.232.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.08.15.52.31.59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.08.15.52.31.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.08.1552.31.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/2.2018.05.08.16.07.11.432.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.1.26.08.101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.12.5.39.63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.12.5.39.636.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.12.58.39.636.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.12.58.51.702.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.12.8.51.702.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.12931.244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.13.26.08.101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.13.29.31.244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.13.2931.244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Limpio/4.2018.05.03.13.34.07.522.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.0.08.15.2.28.232.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05..1534.23.48.664.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05..1534.28.664.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.12.49.22.306.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.12.49.26.740.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.13.03.24.922.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.13.04.43.659.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.13.11.23.09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.13.22.41.857.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.13.22.41.87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.13.220.41.87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.13.27.23.5136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.13.50.19.432.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.15.09.18.758.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.15.13.00.035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.15.13.00.0355.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.15.13.0055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.17.52.06.663.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.03.18.19.38.936.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.08.15.52.31.459.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.08.15.52.31.59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.08.16.07.11.432.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2-Fase/Sucio/2.2018.05.08.16.071.432.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.12.45.36.720.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.12.48.30.828.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.12.48.33.861.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.13.33.18.898.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.15.02.11.741.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.17.49.35.691.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.17.50.27.224.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.17.52.24.997.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.21.00.33.582.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.03.21.02.54.507.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15..23.05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15.42.25.361.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15.43.11.363.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15.44.33.330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15.45.07.897.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15.45.52.604.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15.50.52.418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15.58.23.05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.15.58.23.705.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/1.2018.05.08.5.43.11.363.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.12.48.01s.003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.12.58.03.696.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.12.58.22.163.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.13.04.18.521.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.13.04.22.092.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.13.28.15.962.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.13.31.07.340.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.13.32.54.984.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.03.59.043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.08.25.105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.08.28.308.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.09.00.842.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.09.00.8742.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.14.18.235.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.23.37.976.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.23.976.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.29.3479.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.29.37.479.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.15.29.379.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.16.15.5.833.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.16.15.53.833.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.16.155.833.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.17.49.02.985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.17.4902.985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.03.21.04.08.524.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.08.15.42.11.392.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.08.15.46.22.696.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.08.15.52.00.280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.08.15.52.31.459.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.08.15.57.18.656.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.08.16.07.50.830.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/2.2018.05.8.15.57.18.656.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/3.2018.05.03.13.39.14.733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/3.2018.05.03.15.09.28.477.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/3.2018.05.03.17.51.48.334.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/2/5.2018.05.03.21.03.50.727.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/3/1.2018.05.03.13.27.58.944.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/3/2.2018.05.08.17.09..469.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/3/2.2018.05.08.17.09.33.469.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/1.2018.05.03.12.45.57.889.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/1.2018.05.03.13.30.29.901.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/1.2018.05.03.13.32.10.069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/1.2018.05.03.13.33.18.898.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/1.2018.05.03.21.03.35.407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/1.2018.05.08.15.44.33.330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/2.2018.05.03.13.50.16.588.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/2.2018.05.03.17.49.02.985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/2.2018.05.03.17.50.20.791.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/2.2018.05.03.21.04.08.524.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/2.2018.05.08.15.43.53.330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/2.2018.05.08.15.46.22.696.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/2.2018.05.08.15.52.00.280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/2.2018.05.08.16.07.50.830.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/3.2018.05.03.13.24.59.123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/3.2018.05.03.13.27.10.281.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/3.2018.05.03.13.39.14.733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/3.2018.05.03.13.50.28.027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/3.2018.05.03.15.09.28.477.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/test/4/3.2018.05.03.15.59.02.756.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.12.45.36.720.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.12.48.30.828.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.12.48.33.861.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.12.58.28.586.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.12.59.59.850.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.13.03.10.044.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.13.03.49.879.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.13.27.58.944.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.13.30.29.901.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.13.33.18.898.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.15.02.11.741.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.17.49.35.691.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.17.50.27.224.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.17.52.24.997.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.21.00.33.582.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.03.21.02.54.507.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15..23.05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15.42.25.361.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15.43.11.363.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15.44.33.330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15.45.07.897.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15.45.52.604.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15.50.52.418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15.58.23.05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.15.58.23.705.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/1.2018.05.08.5.43.11.363.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.12.48.01s.003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.12.58.03.696.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.12.58.22.163.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.13.04.18.521.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.13.04.22.092.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.13.28.15.962.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.13.31.07.340.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.13.32.54.984.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.03.59.043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.08.25.105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.08.28.308.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.09.00.842.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.09.00.8742.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.14.18.235.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.23.37.976.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.23.976.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.29.3479.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.29.37.479.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.15.29.379.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.16.15.5.833.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.16.15.53.833.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.16.155.833.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.17.49.02.985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.17.4902.985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.03.21.04.08.524.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.08.15.42.11.392.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.08.15.46.22.696.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.08.15.52.00.280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.08.15.52.31.459.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.08.15.57.18.656.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.08.16.07.50.830.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/2.2018.05.8.15.57.18.656.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/3.2018.05.03.13.39.14.733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/3.2018.05.03.15.09.28.477.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/3.2018.05.03.17.51.48.334.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/2/5.2018.05.03.21.03.50.727.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/3/1.2018.05.03.13.27.58.944.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/3/2.2018.05.08.17.09..469.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/3/2.2018.05.08.17.09.33.469.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/1.2018.05.03.12.45.57.889.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/1.2018.05.03.13.30.29.901.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/1.2018.05.03.13.32.10.069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/1.2018.05.03.13.33.18.898.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/1.2018.05.03.21.03.35.407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/1.2018.05.08.15.44.33.330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/2.2018.05.03.13.50.16.588.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/2.2018.05.03.17.49.02.985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/2.2018.05.03.17.50.20.791.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/2.2018.05.03.21.04.08.524.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/2.2018.05.08.15.43.53.330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/2.2018.05.08.15.46.22.696.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/2.2018.05.08.15.52.00.280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/2.2018.05.08.16.07.50.830.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/3.2018.05.03.13.24.59.123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/3.2018.05.03.13.27.10.281.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/3.2018.05.03.13.39.14.733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/3.2018.05.03.13.50.28.027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/3.2018.05.03.15.09.28.477.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/classification sets/train/4/3.2018.05.03.15.59.02.756.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solicitud.pdf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TDI" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Inicializador.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Inicializador.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#326#370#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model_loaded.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_loaded.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="77" column="16" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Modelo_Convolucional_No_GPU.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modelo_Convolucional_No_GPU.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2196">
+              <caret line="219" column="68" selection-start-line="219" selection-start-column="56" selection-end-line="219" selection-end-column="68" />
+              <folding>
+                <element signature="e#347#376#0" expanded="true" />
+                <element signature="e#7270#7621#0" />
+                <element signature="e#7795#9477#0" />
+                <element signature="e#9526#10129#0" />
+                <element signature="e#7732#8388#0" />
+                <element signature="e#15715#16036#0" />
+                <element signature="e#16089#17334#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/busc.py" />
+        <option value="$PROJECT_DIR$/Inicializador.py" />
+        <option value="$PROJECT_DIR$/Modelo_Convolucional.py" />
+        <option value="$PROJECT_DIR$/Modelo_Convolucional_No_GPU.py" />
+        <option value="$PROJECT_DIR$/model_loaded.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2149" />
+    <option name="y" value="49" />
+    <option name="width" value="1270" />
+    <option name="height" value="624" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TDI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Inicializador">
+    <configuration name="Inicializador" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyecto Mamabata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inicializador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Modelo_Convolucional" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyecto Mamabata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modelo_Convolucional.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="busc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyecto Mamabata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/busc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ejemplo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyecto Mamabata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejemplo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ejemplo1" />
+      <item itemvalue="Python.Inicializador" />
+      <item itemvalue="Python.busc" />
+      <item itemvalue="Python.Modelo_Convolucional" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Inicializador" />
+        <item itemvalue="Python.Modelo_Convolucional" />
+        <item itemvalue="Python.busc" />
+        <item itemvalue="Python.ejemplo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1efbf4d-fe19-4c27-bc24-2d743fce8cfd" name="Default" comment="" />
+      <created>1526920889153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526920889153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49817517" weight="0.20403588" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49966952" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5009914" side_tool="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4990086" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.3627451" />
+      <window_info id="Structure" order="1" sideWeight="0.5018248" side_tool="true" weight="0.18043622" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4990086" weight="0.32909605" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018248" side_tool="true" weight="0.18043622" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49817517" visible="true" weight="0.20403588" />
+      <window_info id="Structure" order="1" sideWeight="0.5018248" side_tool="true" weight="0.18043622" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49966952" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" visible="true" weight="0.251634" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4990086" weight="0.32909605" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4990086" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009914" side_tool="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018248" side_tool="true" weight="0.18043622" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="88" selection-start-line="17" selection-start-column="88" selection-end-line="17" selection-end-column="88" />
+          <folding>
+            <element signature="e#326#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo_Convolucional_No_GPU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="126" column="78" selection-start-line="126" selection-start-column="71" selection-end-line="126" selection-end-column="78" />
+          <folding>
+            <element signature="e#347#376#0" expanded="true" />
+            <element signature="e#7270#7621#0" />
+            <element signature="e#7795#9477#0" />
+            <element signature="e#9526#10129#0" />
+            <element signature="e#7732#8388#0" />
+            <element signature="e#15715#16036#0" />
+            <element signature="e#16089#17334#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="88" selection-start-line="17" selection-start-column="88" selection-end-line="17" selection-end-column="88" />
+          <folding>
+            <element signature="e#326#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo_Convolucional_No_GPU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="97" column="53" lean-forward="true" selection-start-line="97" selection-start-column="53" selection-end-line="97" selection-end-column="53" />
+          <folding>
+            <element signature="e#347#376#0" expanded="true" />
+            <element signature="e#7270#7621#0" />
+            <element signature="e#7795#9477#0" />
+            <element signature="e#9526#10129#0" />
+            <element signature="e#7732#8388#0" />
+            <element signature="e#15715#16036#0" />
+            <element signature="e#16089#17334#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="88" selection-start-line="17" selection-start-column="88" selection-end-line="17" selection-end-column="88" />
+          <folding>
+            <element signature="e#326#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo_Convolucional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+          <folding>
+            <element signature="e#233#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="88" selection-start-line="17" selection-start-column="88" selection-end-line="17" selection-end-column="88" />
+          <folding>
+            <element signature="e#326#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tf1.3/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68935">
+          <caret line="4084" selection-start-line="4084" selection-end-line="4084" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tf1.3/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18360">
+          <caret line="1099" selection-start-line="1099" selection-end-line="1099" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo_Convolucional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5168">
+          <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+          <folding>
+            <element signature="e#233#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#326#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo_Convolucional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3757">
+          <caret line="223" column="51" selection-start-line="223" selection-start-column="51" selection-end-line="223" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="76" lean-forward="true" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tf1.3/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="1099" selection-start-line="1099" selection-end-line="1099" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tf1.3/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="4084" selection-start-line="4084" selection-end-line="4084" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo_Convolucional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+          <folding>
+            <element signature="e#233#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_loaded.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo_Convolucional_No_GPU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2196">
+          <caret line="219" column="68" selection-start-line="219" selection-start-column="56" selection-end-line="219" selection-end-column="68" />
+          <folding>
+            <element signature="e#347#376#0" expanded="true" />
+            <element signature="e#7270#7621#0" />
+            <element signature="e#7795#9477#0" />
+            <element signature="e#9526#10129#0" />
+            <element signature="e#7732#8388#0" />
+            <element signature="e#15715#16036#0" />
+            <element signature="e#16089#17334#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#326#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,53 @@
+commit 87fd2c812d1db18d6ad3495179fd7e1b40e00a1a
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Mon May 21 00:23:03 2018 -0500
+
+    Borrado conv_bmap2jpg.py, Buscador.py
+
+commit 6864c280d7311f188cf7709be16963595224f6f5
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Sat May 19 23:45:28 2018 -0500
+
+    Se pasaron carpetas e imgs a test
+
+commit 4a7a699013041baf605106d529530a2b3bae4648
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Fri May 18 20:33:41 2018 -0500
+
+    Save commits.txt
+
+commit 02154058a134e16fe150a9398f0a3639a3374d08
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Fri May 18 20:27:35 2018 -0500
+
+    Se termino un primer filtro de las imagenes, se cambio la clasificación a Ocupado y libre para las mesas, posteriormente se agregará limpia-sucia, se creo una carpeta para esas imagenes como 2-Face
+
+commit 9f00700bde13c70b845d83d5f8eb216e358ff6ba
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Thu May 17 22:38:34 2018 -0500
+
+    Se agrego commits.txt que guarda los commits que se han hecho como forma de SEGURIDAD
+
+commit 0caf0261ad30f03b94ef870fd1d994c0951f318b
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Thu May 17 22:34:39 2018 -0500
+
+    Creacion de carpetas conjuntos de entrenamiento y test, Se sigue haciendo Debugging en los datos, definimos la clasificacion en 5(README.txt)
+
+commit 28e115dfc2cbcc8ecb168b5f9fa94b1534ce2138
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Thu May 17 16:24:04 2018 -0500
+
+    Se incio el repositorio y todos los archvios estaban vacios jaja, buscador.py busca las imgs en las carpetas, Inicializador.py ejecuta el programa pricipal, Modelo_Convolucional.py es el modelo a entrenar, solcitud.pdf es la solicitud del proyecto, img es la carpeta con las images que seran usadas para el entrenamiento y evaluacion del modelo(no terminadas de procesar), prueba.py = ejemplo basico de uso tensorflow(TF), prueba.py checa las liberiras que esten correctamente instaladas y TensorflowUtils.py sirve metodos para funcionalidades rapidas con TF
+
+commit 921b0278e717fe9122edd453c8529dcf175b7381
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Thu May 17 16:19:08 2018 -0500
+
+    Se incio el repositorio y todos los archvios estaban vacios jaja, buscador.py busca las imgs en las carpetas, Inicializador.py ejecuta el programa pricipal, Modelo
+
+commit c46444302aa6031d6acaf922497b4355647cd0fd
+Author: Gustavo Banuelos <banuelos.201021581@gmail.com>
+Date:   Thu May 17 16:09:13 2018 -0500
+
+    Repositorio inciado
