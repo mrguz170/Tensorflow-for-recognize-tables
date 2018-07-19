@@ -14,8 +14,8 @@ import tensorflow as tf
 Ubicaciones de las imagenes para entrenar el modelo
 """
 
-conjunto_entrenamiento =    "C:\\Users\\lobo_\\Documents\\Machine Learning\\TDI\\img\\classification sets\\train\\"
-conjunto_test =             "C:\\Users\\lobo_\\Documents\\Machine Learning\\TDI\\img\\classification sets\\test\\"
+conjunto_entrenamiento =    "C:\\Users\\lobo_\\Documents\\Machine Learning\\TDI\\img\\classification sets\\sets\\train\\"
+conjunto_test =             "C:\\Users\\lobo_\\Documents\\Machine Learning\\TDI\\img\\classification sets\\sets\\test\\"
 
 numero_clases = 2 # Start in 0
 

@@ -22,6 +22,8 @@ import random
 """ Time """
 import time
 
+version = '02'
+
 class Modelo():
     def __init__(self,input, test, input_labels, test_labels, number_of_classes, option_problem=None):
         self.input = input
@@ -40,18 +42,18 @@ class Modelo():
         # decrease the performance during training. Although this is true or false, for each time an epoch has finished,
         # the framework will save a graph
         # TRAIN MODEL VARIABLES
-        self.input_rows_numbers = 60
-        self.input_columns_numbers = 60
+        self.input_rows_numbers = 70
+        self.input_columns_numbers = 70
         self.kernel_size = [7, 7]  # Kernel patch size
-        self.epoch_numbers = 50 # Epochs number
+        self.epoch_numbers = 200 # Epochs number
         self.batch_size = 16  # Batch size
         self.input_size = len(input)  # Change if necessary
         self.test_size = len(test)  # Change if necessary
         self.train_dropout = 0.5  # Keep probably to dropout to avoid overfitting
-        self.first_label_neurons = 16
-        self.second_label_neurons = 32
-        self.third_label_neurons = 64
-        self.learning_rate = 1e-3  # Learning rate
+        self.first_label_neurons = 8
+        self.second_label_neurons = 12
+        self.third_label_neurons = 16
+        self.learning_rate = 1e-4  # Learning rate
         self.number_epoch_to_change_learning_rate = 2
         self.trains = int(self.input_size / self.batch_size) + 1 # Total number of trains for epoch
         # INFORMATION VARIABLES
@@ -88,7 +90,6 @@ class Modelo():
         SAVE MODEL
         """
         save_dir = 'models/model_TDI/'
-        version = '02'
         dir = os.path.join(save_dir, version)
 
         saver = tf.train.Saver()
@@ -271,6 +272,7 @@ class Modelo():
         if (accuracies_train or accuracies_validation or accuracies_test) and show_graphs:
             accuracy_plot.show()
             plt.show()
+
         loss_plot = plt.figure(1)
         plt.title("LOSS")
         plt.xlabel("ITERATIONS | Batch Size=" + str(self.batch_size) + " | Trains for epoch: " + str(self.trains))

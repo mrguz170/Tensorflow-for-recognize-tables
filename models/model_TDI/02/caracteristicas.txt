@@ -1,0 +1,4 @@
+-3 hidden layers
+-8 - 12 - 16 neurons
+-200 epochs
+-weidhgt, height = 70 * 70

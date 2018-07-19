@@ -29,7 +29,7 @@ class Buscador():
         #print(" ----- labels.np.zeros: ", labels)
 
         if 'train' in path:  # If 'train' in path
-            y_label_dir = os.path.dirname(path)  # Directory of directory of file, se regresan dos veces en la jerraquia de las carpetas
+            y_label_dir = os.path.dirname(path)  # Directory of directory of file
             y_label = os.path.basename(y_label_dir)  # sacamos la etiqueta del nombre de la carpeta a la que pertenece
             labels[int(y_label)] = 1  # ponemos un 1 en el array de zeros de tamaño 59, en la posicion perteneciente a la carpeta
             self.y_train.append(list(labels))  # agregamos la etiqueta

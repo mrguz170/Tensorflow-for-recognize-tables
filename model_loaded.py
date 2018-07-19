@@ -9,9 +9,9 @@ from PIL import Image
 
 
 PATH_TO_TEST_IMAGES_DIR = "img\\Pruebas"
-image_path = os.path.join(PATH_TO_TEST_IMAGES_DIR, '2.png') 
+image_path = os.path.join(PATH_TO_TEST_IMAGES_DIR, '7.png') 
 #etiqueta correcta de la prueba
-y_feed = [[1, 0]]
+y_feed = [[1, 0]] #mesa libe
 
 def load_test_images():
     '''
@@ -66,11 +66,22 @@ def load_and_predict_with_checkpoints(image_np_expanded):
             feed_dict={
                 inputs_real_tensor: image_np_expanded,
                 y_tensor: y_feed,
-                drop_rate_tensor:0.5 })
+                drop_rate_tensor:0.5})
 
         # print results
-        print("No. correct predictions: {}".format(correct))
+        print()
+        print("correct prediction: {}".format(correct))
+        print("[ocupado, libre]")
         print("Predicted classes: {}".format(pred_class))
+        print("------------------------------------------")
+        print(sess.run(tf.argmax(pred_class, axis=1)))
+        if(sess.run(tf.argmax(pred_class, axis=1))== 0):
+            #clase es 0
+            print("clase: ocupado")
+        if(sess.run(tf.argmax(pred_class, axis=1))== 1):
+            #clase es 0
+            print("clase: libre")
+        print()
 
 
 
@@ -94,12 +105,14 @@ MAIN
 """
 def main(_):
 
-    height=60
-    width=60
+    height=70
+    width=70
 
     img = cv2.imread(image_path, 0)
-    #img = cv2.resize(img, (height, width))
-    img = img.reshape(1, 3600)
+    img = cv2.equalizeHist(img)
+    img = cv2.resize(img, (height, width))
+    img = img.reshape(1, 4900)
+
     #img = Image.open(image_path)
     
     #image_np_expanded = load_image_into_numpy_array(img)

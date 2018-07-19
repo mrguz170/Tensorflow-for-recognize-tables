@@ -270,8 +270,8 @@
       <file leaf-file-name="Inicializador.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Inicializador.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="468">
+              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
               <folding>
                 <element signature="e#326#370#0" expanded="true" />
               </folding>
@@ -282,7 +282,7 @@
       <file leaf-file-name="model_loaded.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model_loaded.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="1190">
               <caret line="77" column="16" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="16" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
@@ -294,16 +294,10 @@
       <file leaf-file-name="Modelo_Convolucional_No_GPU.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Modelo_Convolucional_No_GPU.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2196">
+            <state relative-caret-position="3689">
               <caret line="219" column="68" selection-start-line="219" selection-start-column="56" selection-end-line="219" selection-end-column="68" />
               <folding>
                 <element signature="e#347#376#0" expanded="true" />
-                <element signature="e#7270#7621#0" />
-                <element signature="e#7795#9477#0" />
-                <element signature="e#9526#10129#0" />
-                <element signature="e#7732#8388#0" />
-                <element signature="e#15715#16036#0" />
-                <element signature="e#16089#17334#0" />
               </folding>
             </state>
           </provider>
@@ -480,10 +474,9 @@
     <frame x="1912" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49817517" weight="0.20403588" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49817517" visible="true" weight="0.16517189" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49966952" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5009914" side_tool="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4990086" weight="0.32909605" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.3627451" />
@@ -497,25 +490,26 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49817517" visible="true" weight="0.20403588" />
       <window_info id="Structure" order="1" sideWeight="0.5018248" side_tool="true" weight="0.18043622" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49966952" weight="0.32909605" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" visible="true" weight="0.251634" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4990086" weight="0.32909605" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4990086" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009914" side_tool="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Favorites" order="2" sideWeight="0.5018248" side_tool="true" weight="0.18043622" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4990086" weight="0.32909605" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -527,6 +521,36 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Inicializador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#326#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_loaded.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo_Convolucional_No_GPU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3689">
+          <caret line="219" column="68" selection-start-line="219" selection-start-column="56" selection-end-line="219" selection-end-column="68" />
+          <folding>
+            <element signature="e#347#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Inicializador.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -550,12 +574,6 @@
           <caret line="126" column="78" selection-start-line="126" selection-start-column="71" selection-end-line="126" selection-end-column="78" />
           <folding>
             <element signature="e#347#376#0" expanded="true" />
-            <element signature="e#7270#7621#0" />
-            <element signature="e#7795#9477#0" />
-            <element signature="e#9526#10129#0" />
-            <element signature="e#7732#8388#0" />
-            <element signature="e#15715#16036#0" />
-            <element signature="e#16089#17334#0" />
           </folding>
         </state>
       </provider>
@@ -583,12 +601,6 @@
           <caret line="97" column="53" lean-forward="true" selection-start-line="97" selection-start-column="53" selection-end-line="97" selection-end-column="53" />
           <folding>
             <element signature="e#347#376#0" expanded="true" />
-            <element signature="e#7270#7621#0" />
-            <element signature="e#7795#9477#0" />
-            <element signature="e#9526#10129#0" />
-            <element signature="e#7732#8388#0" />
-            <element signature="e#15715#16036#0" />
-            <element signature="e#16089#17334#0" />
           </folding>
         </state>
       </provider>
@@ -614,9 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1547">
           <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
-          <folding>
-            <element signature="e#233#262#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,16 +660,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo1.py" />
     <entry file="file://$PROJECT_DIR$/Modelo_Convolucional.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5168">
           <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
-          <folding>
-            <element signature="e#233#262#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -688,9 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo1.py" />
     <entry file="file://$PROJECT_DIR$/Inicializador.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -698,9 +700,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo1.py" />
     <entry file="file://$USER_HOME$/Anaconda3/envs/tf1.3/Lib/site-packages/tensorflow/python/client/session.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
@@ -719,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1581">
           <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
-          <folding>
-            <element signature="e#233#262#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,7 +731,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model_loaded.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="1190">
           <caret line="77" column="16" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="16" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
@@ -744,24 +741,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Modelo_Convolucional_No_GPU.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2196">
+        <state relative-caret-position="3689">
           <caret line="219" column="68" selection-start-line="219" selection-start-column="56" selection-end-line="219" selection-end-column="68" />
           <folding>
             <element signature="e#347#376#0" expanded="true" />
-            <element signature="e#7270#7621#0" />
-            <element signature="e#7795#9477#0" />
-            <element signature="e#9526#10129#0" />
-            <element signature="e#7732#8388#0" />
-            <element signature="e#15715#16036#0" />
-            <element signature="e#16089#17334#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Inicializador.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="468">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
           <folding>
             <element signature="e#326#370#0" expanded="true" />
           </folding>
